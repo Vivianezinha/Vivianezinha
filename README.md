@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vivianezinha
+- 👋 Hi, I’m @Vivianezinha 
 - 👀 Estou interessada no Adrianinho
-- 🌱 Eu estou aprendendo
+- 🌱 Eu estou aprendendo GitHub com o Alura
 - 💞️ estou procurando colaborar em
 - 📫 como chegar ate mim
 
